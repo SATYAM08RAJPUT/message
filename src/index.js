@@ -1,3 +1,3 @@
-import MyComponent from "./mycomponent";
-import useCounter from "./useounter";
+import MyComponent from "./mycomponent.jsx";
+import useCounter from "./useounter.jsx";
 export { MyComponent, useCounter };
