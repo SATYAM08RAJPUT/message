@@ -31,3 +31,4 @@ export default {
     terser(),  // Minify the UMD build for smaller file size
   ],
 };
+
