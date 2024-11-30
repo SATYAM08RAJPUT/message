@@ -2,7 +2,7 @@
   "name": "ee-message",
   "version": "1.0.1",
   "description": "an test Message",
-  "main": "index.js",
+  "main": "index.jsx",
   "type": "module",
   "scripts": {
     "test": "npm run test ",
